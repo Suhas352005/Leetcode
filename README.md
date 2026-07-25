@@ -56,4 +56,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Suhas352005/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Suhas352005/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Suhas352005/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Suhas352005/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
