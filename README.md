@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/Suhas352005/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suhas352005/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Suhas352005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Suhas352005/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Suhas352005/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Suhas352005/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
